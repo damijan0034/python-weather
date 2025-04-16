@@ -21,3 +21,6 @@ input, button {
     padding: 1rem;
     border-radius: 10px;
 }
+input{
+    width: 80vw;
+}
